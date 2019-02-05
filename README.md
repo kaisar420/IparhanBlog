@@ -15,8 +15,14 @@ SpringBoot个人博客
 
 ![](https://github.com/kaisar420/IparhanBlog/blob/master/blog-master/img/github04.jpeg)
 
+# 代码块参考图
+
+![](https://github.com/kaisar420/IparhanBlog/blob/master/blog-master/img/github05.jpeg)
 
 
+
+# Nginx配置部分参考图
+![](https://github.com/kaisar420/IparhanBlog/blob/master/blog-master/img/github06.jpeg)
 
   
 ## 技术栈：
