@@ -25,6 +25,11 @@ SpringBoot个人博客
 ![](https://github.com/kaisar420/IparhanBlog/blob/master/blog-master/img/github06.jpeg)
 
   
+#二次开发步骤：
+  #### 1.克隆代码
+  #### 2.启动Springboot启动类
+  
+  
 ## 技术栈：
 
    #### 1.Springboot
@@ -39,3 +44,16 @@ SpringBoot个人博客
    #### 10.gson
    #### 11.aop(切面编程)
   
+
+# 提示：
+  ### 由于本人也是根据原作者的项目的基础上调整的,希望各位采纳共同努力。
+  #### 升级的部分：
+      1.mariadb 主从数据库
+      2.微服务架构升级
+      3.上传图片优化
+      4.mybatis架构升级
+    
+# 联系作者：
+  ![](https://github.com/kaisar420/IparhanBlog/blob/master/blog-master/img/iparhan.jpeg)
+  ![](https://github.com/kaisar420/IparhanBlog/blob/master/blog-master/img/smallCode.jpg)
+  ![](https://github.com/kaisar420/IparhanBlog/blob/master/blog-master/img/smallCode01.jpg)
